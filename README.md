@@ -1,2 +1,3 @@
-# python-solutions-nptel
+# python-practice
+
 
